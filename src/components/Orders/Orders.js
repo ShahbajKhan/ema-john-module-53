@@ -3,7 +3,7 @@ import React from 'react';
 const Orders = () => {
     return (
         <div>
-            This is Orders route.
+            <h2>This is Orders</h2>
         </div>
     );
 };
