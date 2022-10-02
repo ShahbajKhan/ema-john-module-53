@@ -5,7 +5,6 @@
     margin-top: 21px;
     width: 571px;
     display: flex;
-    flex-direction: column;
 }
 .review-item img{
     width: 91px;
