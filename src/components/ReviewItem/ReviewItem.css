@@ -3,8 +3,9 @@
     border-radius: 8px;
     padding: 8px;
     margin-top: 21px;
-    width: 100%;
+    width: 571px;
     display: flex;
+    flex-direction: column;
 }
 .review-item img{
     width: 91px;
