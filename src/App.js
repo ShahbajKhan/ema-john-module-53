@@ -19,7 +19,6 @@ function App() {
         { path: "/about", element: <About /> },
       ],
     },
-    {}
   ]);
   return (
     <div>
